@@ -1,6 +1,11 @@
 # Hello, I'm Adeline 👋
 
 I'm a **first-year student** at 42 Yerevan, studying **C/C++, networking, and cybersecurity**. I'm passionate about **DevOps**, **automation**, and **cybersecurity**. I love solving **programming challenges** and building secure, reliable systems.
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/black/aeminian?1337Badge=off&UM6P=off" alt="aeminian's 42 stats">
+  </a>
+</p>
 
 ---
 
