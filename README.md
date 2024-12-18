@@ -2,7 +2,7 @@
 
 I'm a first-year student at 42 Yerevan, studying C/C++, networking, and cybersecurity. I'm passionate about DevOps and automation, and I love solving programming challenges.  
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2608564" style='border:none;'></iframe>
+![TryHackMe Profile Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2608564)
 
 ## 🔧 Technologies & Tools
 - C/C++
@@ -11,5 +11,5 @@ I'm a first-year student at 42 Yerevan, studying C/C++, networking, and cybersec
 - DevOps
 
 ## 📫 Contact Me
-- Email: [adelineeminian13@gmail.com](mailto:adelineeminian13@gmail.com)
-- LinkedIn: [Adeline's LinkedIn](https://www.linkedin.com/in/adelineeminian/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/adelineeminian/)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/6/67/Email_icon.png)](mailto:adelineeminian13@gmail.com)
