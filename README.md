@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Adeline 👋
 
-<!--
-**Adel2k/Adel2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student at 42 Yerevan, studying C/C++, networking, and cybersecurity. I'm passionate about DevOps and automation, and I love solving programming challenges.  
 
-Here are some ideas to get you started:
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2608564" style='border:none;'></iframe>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- C/C++
+- Linux
+- Networking & Cybersecurity
+- DevOps
+
+## 📫 Contact Me
+- Email: [adelineeminian13@gmail.com](mailto:adelineeminian13@gmail.com)
+- LinkedIn: [Adeline's LinkedIn](https://www.linkedin.com/in/adelineeminian/)
