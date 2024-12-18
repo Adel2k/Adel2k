@@ -2,7 +2,7 @@
 
 I'm a first-year student at 42 Yerevan, studying C/C++, networking, and cybersecurity. I'm passionate about DevOps and automation, and I love solving programming challenges.  
 
-[Visit my TryHackMe profile](https://tryhackme.com/p/2608564)
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2608564)
 
 ## 🔧 Technologies & Tools
 - C/C++
